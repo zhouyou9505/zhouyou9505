@@ -32,4 +32,3 @@
 - [zhouyou.ltx@gmail.com](mailto:zhouyou.ltx@gmail.com)
 
 
-感谢你访问我的主页！欢迎探索我的代码仓库并为我的项目做出贡献。让我们一起连接并合作，打造一些令人惊叹的项目吧！
