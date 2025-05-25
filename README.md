@@ -29,6 +29,6 @@
 ### 📫 如何联系我
 
 欢迎通过以下方式联系我：
-- [zhouyou.ltx@gmail.com](mailto:zhouyou.ltx@gmail.com)
+- [zhouyou.ltx@gmail.com](mailto:zhouyou9505@gmail.com)
 
 
