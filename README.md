@@ -1,34 +1,59 @@
-## 你好，我是[洲游] 👋
+# Hi, I'm zhouyou 👋
 
-欢迎来到我的GitHub主页！我是一名全栈工程师，专注于后端和前端开发，同时在机器学习和大模型Agent应用有一定的基础。  
-前阿里巴巴高级工程师  
+[中文](#中文介绍) | [English](#english)
 
+---
 
-### 🛠️ 技术栈Stack
+## 中文介绍
 
-#### 后端Backend （8年经验）
-- **Java**
-- **Python**  [`mlflow pr`](https://github.com/mlflow/mlflow/pull/11996)
-- **Spring Boot**
-- **MySQL**
+你好，我是 **zhouyou**，专注于 **LLMOps** 和 **Agent 开发**。  
+我主要关注如何把大模型能力稳定、可观测、可扩展地落到生产环境。
 
+### 目前聚焦
 
-#### 前端Frontend（2年经验）
-- **Vue**
-- **React**     [`mlflow pr`](https://github.com/mlflow/mlflow/pull/11996)
-- **TypeScript**
-- **HTML/CSS**
+- **LLMOps**：推理服务部署、发布流程、监控告警、成本与性能优化
+- **Agent Engineering**：多工具调用、任务编排、可靠性与评测
+- **Platform**：基于 Kubernetes 的 AI 基础设施与工程化实践
 
-#### DevOps
-- **Docker**
-- **Kubernetes**
-- **Istio**
-- **Git**
-- **CI/CD**
+### 技术关键词
 
-### 📫 如何联系我
+`Python` `Go` `Kubernetes` `Docker` `vLLM` `RAG` `Observability` `CI/CD`
 
-欢迎通过以下方式联系我：
-- [zhouyou9505@gmail.com](mailto:zhouyou9505@gmail.com)
+### 我在做什么
 
+- 构建和优化 LLM 推理与服务化流程
+- 开发可用于真实业务场景的 Agent 工作流
+- 持续参与开源社区（LLM Infra / Inference / Scheduling）
 
+### 联系方式
+
+- 通过 GitHub Issues / Discussions 联系我
+- 欢迎一起讨论 LLMOps 与 Agent 落地实践
+
+---
+
+## English
+
+Hi, I'm **zhouyou**, focused on **LLMOps** and **Agent development**.  
+I work on making LLM systems production-ready: reliable, observable, and scalable.
+
+### Current Focus
+
+- **LLMOps**: inference deployment, release workflow, monitoring, and cost/perf optimization
+- **Agent Engineering**: tool use, orchestration, reliability, and evaluation
+- **Platform Engineering**: Kubernetes-based AI infrastructure
+
+### Tech Keywords
+
+`Python` `Go` `Kubernetes` `Docker` `vLLM` `RAG` `Observability` `CI/CD`
+
+### What I'm doing
+
+- Building and improving LLM inference/service workflows
+- Developing practical agents for real-world use cases
+- Contributing to open-source communities (LLM infra/inference/scheduling)
+
+### Contact
+
+- Reach me via GitHub Issues / Discussions
+- Open to collaboration on LLMOps and Agent systems
