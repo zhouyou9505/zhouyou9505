@@ -1,59 +1,38 @@
-# Hi, I'm zhouyou 👋
+# 👋 Hi, I'm zhouyou
 
-[中文](#中文介绍) | [English](#english)
-
----
-
-## 中文介绍
-
-你好，我是 **zhouyou**，专注于 **LLMOps** 和 **Agent 开发**。  
-我主要关注如何把大模型能力稳定、可观测、可扩展地落到生产环境。
-
-### 目前聚焦
-
-- **LLMOps**：推理服务部署、发布流程、监控告警、成本与性能优化
-- **Agent Engineering**：多工具调用、任务编排、可靠性与评测
-- **Platform**：基于 Kubernetes 的 AI 基础设施与工程化实践
-
-### 技术关键词
-
-`Python` `Go` `Kubernetes` `Docker` `vLLM` `RAG` `Observability` `CI/CD`
-
-### 我在做什么
-
-- 构建和优化 LLM 推理与服务化流程
-- 开发可用于真实业务场景的 Agent 工作流
-- 持续参与开源社区（LLM Infra / Inference / Scheduling）
-
-### 联系方式
-
-- 通过 GitHub Issues / Discussions 联系我
-- 欢迎一起讨论 LLMOps 与 Agent 落地实践
+**Senior AI Infrastructure & Cloud-Native Engineer** | Shanghai, China 🇨🇳
 
 ---
 
-## English
+## 🇬🇧 English Profile
 
-Hi, I'm **zhouyou**, focused on **LLMOps** and **Agent development**.  
-I work on making LLM systems production-ready: reliable, observable, and scalable.
+A senior engineer with 10+ years of experience in high-concurrency backend systems and cloud-native infrastructure. Currently focusing on the cutting-edge ecosystem of **Distributed LLM Inference Orchestration**.
 
-### Current Focus
+### 🚀 Core Focus
+*   **Inference Disaggregation:** Designing **Coordinator** architectures to optimize Prefill/Decode phase separation.
+*   **Cache-Aware Routing:** Building token-level scheduling strategies leveraging KV Cache affinity.
+*   **Network Topology Sensing:** Integrating high-performance network weights (**RoCE, InfiniBand, UCCL**) into control-plane scheduling.
 
-- **LLMOps**: inference deployment, release workflow, monitoring, and cost/perf optimization
-- **Agent Engineering**: tool use, orchestration, reliability, and evaluation
-- **Platform Engineering**: Kubernetes-based AI infrastructure
+### 🎯 Open Source & Tech Stack
+*   **Community:** Active contributor to **[llm-d](https://llm-d.ai/)**.
+*   **Toolbox:** Go, Python | Kubernetes, KubeRay, K3s, Istio | vLLM, Ray, OpenTelemetry.
 
-### Tech Keywords
+---
 
-`Python` `Go` `Kubernetes` `Docker` `vLLM` `RAG` `Observability` `CI/CD`
+## 🇨🇳 中文简介
 
-### What I'm doing
+十年以上高并发后端及云原生架构经验，目前全力投入于**大模型分布式推理编排与调度** AI Infra 领域。
 
-- Building and improving LLM inference/service workflows
-- Developing practical agents for real-world use cases
-- Contributing to open-source communities (LLM infra/inference/scheduling)
+### 🚀 核心方向
+*   **推理分离架构 (Disaggregation)：** 设计高性能 **Coordinator** 架构，极致优化 Prefill 与 Decode 阶段的分离调度。
+*   **感知缓存的路由 (Cache-Aware)：** 结合 Token 级调度，利用 KV Cache 亲和性提升大模型集群吞吐量。
+*   **网络拓扑感知：** 将底层高性能网络（**RoCE, InfiniBand, UCCL**）的通信开销转化为控制面的调度权重。
 
-### Contact
+### 🎯 开源贡献与技术栈
+*   **开源社区：** **[llm-d](https://llm-d.ai/)** 社区活跃贡献者 (`#sig-router` / `#sig-kv-disaggregation` 小组)。
+*   **技术栈：** Go, Python | Kubernetes, Istio | vLLM,, OpenTelemetry。
 
-- Reach me via GitHub Issues / Discussions
-- Open to collaboration on LLMOps and Agent systems
+---
+
+📫 **Connect:** Active in AI Infra developer communities. 
+*“Optimizing infrastructure so that intelligence can scale freely. / 优化基础设施，让智能自由生长。”*
