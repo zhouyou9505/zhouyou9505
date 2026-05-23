@@ -7,7 +7,7 @@ zhouyou9505@gmail.com
 
 ---
 
-## c
+## Profile
 
 A senior engineer with 10+ years of experience in high-concurrency backend systems and cloud-native infrastructure. Currently focusing on the cutting-edge ecosystem of **Distributed LLM Inference Orchestration**.
 
@@ -22,7 +22,7 @@ A senior engineer with 10+ years of experience in high-concurrency backend syste
 
 ---
 
-## English
+## Profile
 
 十年以上高并发后端及云原生架构经验，目前全力投入于**大模型分布式推理编排与调度** AI Infra 领域。
 
