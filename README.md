@@ -1,10 +1,13 @@
 # 👋 Hi, I'm zhouyou
 
-**Senior AI Infrastructure & Cloud-Native Engineer** | Shanghai, China 🇨🇳
+**Senior AI Infrastructure & Cloud-Native Engineer** | Shanghai, China
+
+## 邮箱 
+zhouyou9505@gmail.com
 
 ---
 
-## 🇬🇧 English Profile
+## c
 
 A senior engineer with 10+ years of experience in high-concurrency backend systems and cloud-native infrastructure. Currently focusing on the cutting-edge ecosystem of **Distributed LLM Inference Orchestration**.
 
@@ -19,7 +22,7 @@ A senior engineer with 10+ years of experience in high-concurrency backend syste
 
 ---
 
-## 🇨🇳 中文简介
+## English
 
 十年以上高并发后端及云原生架构经验，目前全力投入于**大模型分布式推理编排与调度** AI Infra 领域。
 
