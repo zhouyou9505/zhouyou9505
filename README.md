@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/llm-d">
-    <img src="https://avatars.githubusercontent.com/u/211385051?s=160&v=4" alt="llm-d logo" width="120" />
-  </a>
-</p>
+
 
 # Hi, I'm zhouyou
 
